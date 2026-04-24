@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,postgres,python,numpy,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,tailwind,js,postgres,python,numpy,git,github,vscode" />
 </p>
 
 ---
@@ -36,6 +36,8 @@
 ---
 
 ## 🔥 Projects
+ -wealthpulse-focuses on helping users monitor and manage their money smarter.
+ -ResQTech-a tech-based emergency response and disaster management system.
 - 💡 Patient-Doctor Database System (Laravel Based)
 - 📝 Java Mini Projects (OOP + File Handling)
 - 🌐 Web Development Projects
@@ -45,7 +47,7 @@
 ## 🎯 Goals
 - 🚀 Become a full-stack developer
 - 📈 Build impactful real-world projects
-- 🎬 Grow “After Dreams” editing brand
+- Become an AI Engineer
 
 ---
 
