@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
-<h3 align="center">🚀 Developer | 🎬 Editor | 💪 Fitness Enthusiast</h3>
+<h3 align="center">🚀 Developer || </h3>
 
 ---
 
 ## 🌟 About Me
 - 💻 I’m currently learning **Web Development & Java**
 - 🛠️ Working on projects using **Laravel & Database Systems**
-- 🎬 I create edits on Instagram → **After Dreams**
-- 💪 Gym lover & disciplined lifestyle
-- 📚 Currently reading *The Idiot* by Dostoevsky
 
----
 
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/ujjwal-singh-09914031a/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://instagram.com/lost.in.ujju" target="blank">
+<a href="https://instagram.com/_ujjjwaaaall" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
