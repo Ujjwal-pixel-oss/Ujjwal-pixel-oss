@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - 💻 I’m currently learning **Web Development & Java**
-- 🛠️ Working on projects using **Laravel & Database Systems**
+- 🛠️ Working on projects using **mySQL Mongodb and Postgres**
 
 
 ## 🔗 Connect with Me
