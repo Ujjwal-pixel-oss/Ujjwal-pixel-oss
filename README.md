@@ -37,7 +37,9 @@
 
 ## 🔥 Projects
  -wealthpulse-focuses on helping users monitor and manage their money smarter.
+ 
  -ResQTech-a tech-based emergency response and disaster management system.
+ 
 - 💡 Patient-Doctor Database System (Laravel Based)
 - 📝 Java Mini Projects (OOP + File Handling)
 - 🌐 Web Development Projects
